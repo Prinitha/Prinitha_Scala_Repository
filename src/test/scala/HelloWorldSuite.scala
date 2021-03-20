@@ -5,6 +5,8 @@ object HelloWorldSuite extends HelloWorld {
     def main(args: Array[String]): Unit = {
       // Typed Hello World
       //Adding another test comment
+
+      //Adding from command merge
       println("Hello World")
       println(s"The value is ${a}")
     }
